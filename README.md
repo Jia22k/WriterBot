@@ -1,4 +1,4 @@
-# Custom Hash Table for WriterBot
+#  WriterBot
 
 Welcome to the repository for the third project in my data structures class, where I implemented a custom hash table to support the functionality of a `WriterBot`. The `CustomHashTable`, `CustomLinklist`, and `CustomNode` classes were designed to manage and retrieve character sequences efficiently.
 
